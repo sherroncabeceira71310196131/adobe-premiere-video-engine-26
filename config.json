@@ -1,0 +1,2 @@
+{"app":"abletonlive_engine","version":"1.0.0","daw_api":{"retry_attempts":3,"timeout_ms":15000,"prefer_stems":true},"directories":{"cache":"./cache","output":"./output_assets"}}
+
